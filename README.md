@@ -1,5 +1,7 @@
 # Robot Arm Motion Planning and Control Project
 
+reference https://github.com/Genesis-Embodied-AI/Genesis/blob/main/README_KR.md  
+
 This project is a collection of Python scripts for studying and implementing robot arm motion planning and control. Based on the file names, it appears to focus on the Franka Emika robot arm and utilizes the OMPL library for motion planning.
 
 ## Project Overview
